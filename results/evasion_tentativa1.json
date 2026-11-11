@@ -1,0 +1,10 @@
+{
+  "LogReg": {
+    "base_pgd_eps015": 0.2848148148148148,
+    "def_estatica_pgd_eps015": 0.018148148148148146
+  },
+  "MLP": {
+    "base_pgd_eps015": 0.05,
+    "def_estatica_pgd_eps015": 0.0003703703703703704
+  }
+}

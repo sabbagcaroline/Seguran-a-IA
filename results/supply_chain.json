@@ -1,0 +1,72 @@
+{
+  "linhas": [
+    {
+      "seed": 0,
+      "acc_original": 0.9685185185185186,
+      "acc_trocado": 0.8888888888888888,
+      "ingenuo_carregou": true,
+      "trocado_passaria_so_no_smoke_test": true,
+      "seguro_rejeitou": true,
+      "motivo": "SHA-256 diferente do manifesto: artefato rejeitado",
+      "sutil_rejeitada_hash": true,
+      "sutil_passaria_so_no_smoke_test": true,
+      "acc_sutil": 0.9685185185185186
+    },
+    {
+      "seed": 1,
+      "acc_original": 0.975925925925926,
+      "acc_trocado": 0.8944444444444445,
+      "ingenuo_carregou": true,
+      "trocado_passaria_so_no_smoke_test": false,
+      "seguro_rejeitou": true,
+      "motivo": "SHA-256 diferente do manifesto: artefato rejeitado",
+      "sutil_rejeitada_hash": true,
+      "sutil_passaria_so_no_smoke_test": true,
+      "acc_sutil": 0.9777777777777777
+    },
+    {
+      "seed": 2,
+      "acc_original": 0.9685185185185186,
+      "acc_trocado": 0.8814814814814815,
+      "ingenuo_carregou": true,
+      "trocado_passaria_so_no_smoke_test": true,
+      "seguro_rejeitou": true,
+      "motivo": "SHA-256 diferente do manifesto: artefato rejeitado",
+      "sutil_rejeitada_hash": true,
+      "sutil_passaria_so_no_smoke_test": true,
+      "acc_sutil": 0.9629629629629629
+    },
+    {
+      "seed": 3,
+      "acc_original": 0.9777777777777777,
+      "acc_trocado": 0.9203703703703704,
+      "ingenuo_carregou": true,
+      "trocado_passaria_so_no_smoke_test": false,
+      "seguro_rejeitou": true,
+      "motivo": "SHA-256 diferente do manifesto: artefato rejeitado",
+      "sutil_rejeitada_hash": true,
+      "sutil_passaria_so_no_smoke_test": true,
+      "acc_sutil": 0.9796296296296296
+    },
+    {
+      "seed": 4,
+      "acc_original": 0.9703703703703703,
+      "acc_trocado": 0.9037037037037037,
+      "ingenuo_carregou": true,
+      "trocado_passaria_so_no_smoke_test": false,
+      "seguro_rejeitou": true,
+      "motivo": "SHA-256 diferente do manifesto: artefato rejeitado",
+      "sutil_rejeitada_hash": true,
+      "sutil_passaria_so_no_smoke_test": true,
+      "acc_sutil": 0.9722222222222222
+    }
+  ],
+  "acc_original": 0.9722222222222221,
+  "acc_trocado": 0.8977777777777778,
+  "acc_sutil": 0.9722222222222221,
+  "seguro_rejeitou_pct": 100.0,
+  "sutil_barrada_por_hash_pct": 100.0,
+  "sutil_passaria_smoke_pct": 100.0,
+  "ingenuo_rejeitou_pct": 0.0,
+  "trocado_passaria_smoke_pct": 40.0
+}
